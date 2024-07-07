@@ -50,7 +50,7 @@ Create a dashboard using the MERN (MongoDB, Express, React, Node.js) stack that 
 - **Git Usage:** Clear commit history and use of branches.
 
 ## Submission Deadline
-Please submit your solution by June 20th.
+Please submit your solution by July 15.
 
 ## Getting Started
 ### Prerequisites
